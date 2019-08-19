@@ -29,6 +29,7 @@
 .menu{
   display: flex;
   flex-direction: column;
+  flex-basis: 20%;
 }
 
 #nav a {
